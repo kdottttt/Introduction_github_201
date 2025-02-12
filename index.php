@@ -1,20 +1,12 @@
 <html>
-    <head>
+        <head>
     <title></title>
-    </head>
-
-    <body>
+        </head>
+         <body>
         <h1>
-        
+            
+         <?php echo "Hello World"; ?>
         
         </h1>
-    </body>
-
-
-
-
-
-
-
-
+        </body>
 </html>
